@@ -8,4 +8,4 @@ This repository documents my learning process with Git and GitHub as part of the
 
 First, I installed Git on my system and verified the installation:  
 
-![Git Installation](https://github.com/JAPV-X2612/my_first_repository/blob/main/images/intalling_git.png)
+![Git Installation](images/intalling_git.png)
