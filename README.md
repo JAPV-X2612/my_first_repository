@@ -1,15 +1,14 @@
-# My Project
+# My First Git Repository  
 
-This is a brief description of my project. It explains what the project does and its purpose.
+This repository documents my learning process with Git and GitHub as part of the "Software Development Life Cycle" course. Below are the steps I followed to create and manage this repository, along with evidence screenshots:  
 
-## Features
+---
 
-- Feature 1: Brief description  
-- Feature 2: Brief description  
-- Feature 3: Brief description  
+## Step 1: Installing Git  
 
-## Installation
+First, I installed Git on my system and verified the installation:  
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/JAPV-X2612/my_first_repository
+```bash
+git --version
+
+![Git Installation](images/intalling_git.png)
