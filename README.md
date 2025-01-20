@@ -4,7 +4,9 @@ This repository documents my learning process with Git and GitHub as part of the
 
 ---
 
-## Step 1: Installing Git  
+## PART
+
+### Step 1: Installing Git  
 
 First, I installed Git on my system and verified the installation:  
 
@@ -16,7 +18,7 @@ git --version
 
 
 
-## Step 2: Configuring Git
+### Step 2: Configuring Git
 
 set up my user information for Git:
 
@@ -29,7 +31,7 @@ git config --global user.email "your.email@example.com"
 
 
 
-## Step 3: Creating a Local Repository
+### Step 3: Creating a Local Repository
 
 ```bash
 git init my_first_repository
@@ -40,7 +42,7 @@ cd my_first_repository
 
 
 
-## Step 4: Adding a README.md File
+### Step 4: Adding a README.md File
 
 I created a README.md file and added some content:
 
@@ -54,7 +56,7 @@ Then, I added and committed the file:
 
 
 
-## Step 5: Connecting to GitHub
+### Step 5: Connecting to GitHub
 
 I created a repository on GitHub and linked it to my local repository:
 
@@ -72,7 +74,7 @@ git push -u origin main
 
 
 
-## Step 6: Making Changes and Using Git Workflow
+### Step 6: Making Changes and Using Git Workflow
 
 Created a new branch and switched to it:
 
@@ -96,3 +98,9 @@ git push origin main
 ```
 
 ![Git Setting](images/making_changes_and_using_git_workflow.png)
+
+
+
+### Step 7: Making Changes on README.md File
+
+These are some changes to the README.md file made by Jesús Pinzón (Owner).
