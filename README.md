@@ -103,4 +103,4 @@ git push origin main
 
 ### Step 7: Making Changes on README.md File
 
-These are some changes to the README.md file made by Jesús Pinzón (Owner).
+These are other changes to the README.md file made by Jesús Pinzón (Owner) 1.1.0
