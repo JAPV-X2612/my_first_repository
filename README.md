@@ -204,7 +204,7 @@ Then, each of them proceeded to resolve their respective conflicts manually and 
 
 
 
-## **PART II (Teamwork)**
+## **PART III (Teamwork)**
 
 To avoid update issues like the one we had in the previous case, we are now going to use Pull Requests (PR), which are requests to merge changes from one branch to another in a GitHub repository, allowing review and collaboration before integration.
 
@@ -278,7 +278,6 @@ After the review, we accepted and merged the PRs into the main branch. This proc
 
 ![Jose Acepted PR By Jesus 1](images/jose_pr_by_jesus_1.png)
 ![Jose Acepted PR By Jesus 2](images/jose_pr_by_jesus_2.png)
-![Jose Acepted PR By Jesus 3](images/jose_pr_by_jesus_3.png)
 
 
 
